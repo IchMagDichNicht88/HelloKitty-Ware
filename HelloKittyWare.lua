@@ -1,3 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IchMagDichNicht88/HelloKitty-Ware/refs/heads/main/Auto%20Pink%20Theme.lua"))()
+wait(1)
+
 local placeId = game.PlaceId
 
 -- The Revenant
